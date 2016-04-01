@@ -1,0 +1,26 @@
+{
+  "name": "Documenter",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "WinKAR"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "pdf"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "amazeui": "^2.6.0"
+  }
+}
